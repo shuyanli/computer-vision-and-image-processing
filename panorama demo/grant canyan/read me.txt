@@ -1,0 +1,1 @@
+we can see that the more input image it combine, the more distortion it has. The program is not very noise-robust
